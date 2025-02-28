@@ -1,6 +1,6 @@
 # An ICP multiuser Ethereum wallet that can delegate access to agents
 
-This multiuser Ethereum wallet uses allows the user to generate an Ethereum address by logging in with their Internet Identity. The user can then send and receive Ethereum to other users.
+This multiuser Ethereum wallet allows the user to generate an Ethereum address by logging in with their Internet Identity. The user can then send and receive Ethereum to other users.
 
 The wallet also allows the user to delegate access to an (AI) agent. The agent can then send Ethereum on behalf of the user. The user can revoke access at any time. In addition to delegating access, the user can specify som rules that the AI agent must follow when interacting with the wallet:
 
